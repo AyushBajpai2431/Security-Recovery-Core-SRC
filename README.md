@@ -2,6 +2,8 @@
 
 **Official Website:** [https://security-recovery-core.droploot.org/](https://security-recovery-core.droploot.org/)
 
+**Wiki** [Security Recovery Core Wiki](https://security-recovery-core.droploot.org/wiki.html)
+
 **Hardware-Assisted, Unbrickable, Pre-OS Firmware Recovery**
 
 ## Overview
