@@ -1,5 +1,8 @@
 # Security Recovery Core - Architecture Documentation
 
+# Web Guide
+https://security-recovery-core.droploot.org/docs-architecture.html
+
 ## System Overview
 
 Security Recovery Core (SRC) is a hardware-assisted firmware recovery system that operates at the lowest level of the system, before BIOS/UEFI initialization. It provides automatic backup and recovery capabilities to prevent permanent system bricking.
