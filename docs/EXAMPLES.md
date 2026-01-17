@@ -1,5 +1,8 @@
 # Security Recovery Core - Examples and Use Cases
 
+# Web Example
+https://security-recovery-core.droploot.org/docs-examples.html
+
 ## Example Terminal Outputs
 
 ### Status Command
