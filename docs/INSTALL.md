@@ -3,6 +3,9 @@
 #Web Guide
 https://security-recovery-core.droploot.org/docs-install.html
 
+# Wiki
+https://security-recovery-core.droploot.org/wiki.html
+
 ## Prerequisites
 
 ### Hardware Requirements
