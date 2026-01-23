@@ -4,6 +4,8 @@
 
 **Wiki** [Security Recovery Core Wiki](https://security-recovery-core.droploot.org/wiki.html)
 
+**Documents** [Security Recovery Core Documentents](https://security-recovery-core.droploot.org/documentation.html)
+
 **Discord** https://discord.com/invite/recoverysrc
 
 **Hardware-Assisted, Unbrickable, Pre-OS Firmware Recovery**
