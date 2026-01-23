@@ -1,5 +1,7 @@
 # Security Recovery Core - Uninstallation Guide
 
+https://security-recovery-core.droploot.org/removal-process.html
+
 ## ⚠️ IMPORTANT WARNINGS
 
 **Before proceeding with uninstallation:**
